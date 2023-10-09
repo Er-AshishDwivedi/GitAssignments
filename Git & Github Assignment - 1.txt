@@ -1,0 +1,56 @@
+﻿Git & Github Assignment - 1
+
+
+Q1. What is Git ?
+Ans-> Git is an open source Distributed version control system.
+It developed to manage Projects with high speed,and   Efficiency.
+Git was created by Linus Torvalds in 2005 to develop the Linux kernel.
+It is easy to learn and has fast Performance.
+
+
+Q2.  What do you understand about the term ‘Version control System’?
+Ans -> Version control system is system software that helps  allow us to monitor and provide coordination on the work among the developer.
+It is a very helpful and beneficial software system that helps a team to manage and track the changes in a source file.
+They maintain the history of code modification.
+They provide communication between team members in an efficient  manner.and increase Productivity.
+
+
+Q3. What is Github ?
+Ans -> Github is cloud based,Git repository hosting service that provide web based Graphical user Interface
+Using a github team manager can collaborate,review , guide the team member in an easy way.
+
+
+
+
+Q4.  Mention  some popular git hosting services ?
+Ans-> Github ,Gitlab,Bitbucket etc.is a popular git hosting service.  
+
+
+Q5.  Different type of  version control system ?
+Ans-> There are 3 type of version control system
+1. Local version control system
+2. Centralized version control system
+3. Distributed version control system
+
+
+a)Local version control system -> It is a tool that helps individual track and manage changes to file and directories on their own system.
+
+
+b)Centralized version control system-> It is a system where a single central server stores all versions of files and user access files by connecting to this  central server.
+
+
+c) Distributed version control system -> It is a system where every user has a  full copy of the Repository , including its entire history. This allows users to work independently and share changes with others .
+
+
+Q6. what benifits come with using git? 
+Ans-> Git provides several benefits for developers and teams collaborating on software projects like Version Control ,Branching and Merging,Collaboration,Code Reviews,Traceability and Auditing,Security and Access Control,integration with CI/CD,Easy Deployment and Rollback,Offline Work etc .
+Q7. What is a git repository?
+Ans -> git repository is a file structure which contains several files on git.Git can either store the files on the local or the remote repository.
+
+
+Q8. How can you initialize a repository in git?
+
+
+Ans->To create a  repository, open command line on your desired directory and run the init command as follows:
+1. $ git init  
+The above command will create an empty .git repository.
